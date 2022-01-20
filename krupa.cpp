@@ -7,3 +7,4 @@ cout<<"hello world";
 return 0;
 }
 //added this
+//this comment is added by krupa
